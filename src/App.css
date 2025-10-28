@@ -15,7 +15,7 @@
 .header {
   background-color: #004aad; /* deep blue */
   color: white;
-  padding: 1rem 0rem;
+  padding: 0rem 0rem;
   display: flex;
   justify-content: center;
   align-items: center;

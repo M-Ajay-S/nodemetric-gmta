@@ -7,7 +7,7 @@ function App() {
       <header className="header">
         <div className="header-content">
           <img src={"/gmta-logo.jpg"} alt="GMTA Logo" className="logo" />
-          <h1 className="title">Global MobilePhone Technician Association(GMTA)</h1>
+          <h1 className="title">Global MobilePhone Technicians Association(GMTA)</h1>
         </div>
       </header>
 
