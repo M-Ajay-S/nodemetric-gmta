@@ -6,8 +6,8 @@ function App() {
       {/* Header Section */}
       <header className="header">
         <div className="header-content">
-          <img src={"/gmta-logo.jpg"} alt="GMPTA Logo" className="logo" />
-          <h1 className="title">Global Mobile Phone Technician Association</h1>
+          <img src={"/gmta-logo.jpg"} alt="GMTA Logo" className="logo" />
+          <h1 className="title">Global MobilePhone Technician Association(GMTA)</h1>
         </div>
       </header>
 
