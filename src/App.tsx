@@ -13,8 +13,8 @@ function App() {
 
       {/* Main Section */}
       <main className="main">
-        <p>Welcome to the Global Mobile Phone Technician Association portal.</p>
-        <h2>Comming Soon</h2>
+        <p>Welcome To The GMTA portal</p>
+        <h2>Coming Soon</h2>
       </main>
     </div>
   );
